@@ -8,7 +8,7 @@ li {
 }
 .weekly-forecast {
     background: #ffff;
-    color:#52A7C1;
+    color: #4aa5ef;
     border-radius: 10px;
     min-block-size: 150px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);

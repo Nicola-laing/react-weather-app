@@ -8,7 +8,7 @@
   margin: 50px auto;
   border-radius: 20px;
   inline-size: 600px;
-  background: linear-gradient(#b3f6d8, #52a7c1);
+  background: linear-gradient(163deg, rgb(31, 167, 208) 0%, rgb(102, 241, 205) 100%);
   min-block-size: 300px;
   min-inline-size: 600px;
 }
