@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 1%;
+}
+.weekly-forecast {
+    background: #ffff;
+    color:#52A7C1;
+    border-radius: 10px;
+    min-block-size: 150px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+
+}
+h2 {
+    font-size: 15px;
+    text-align: start;
+    padding:5px;
+    
+}
