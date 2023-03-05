@@ -4,6 +4,8 @@ import Results from "./Results.js";
 
 export default function Weather() {
   let [city, setCity] = useState("");
+  function showWeather (response){
+  }
   function handleSubmit(event) {
     event.preventDefault();
   }
