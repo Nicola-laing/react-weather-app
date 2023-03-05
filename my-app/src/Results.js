@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Results.css";
-import axios from "axios";
+
 
 export default function Results() {
   return (
